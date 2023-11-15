@@ -2,35 +2,6 @@
 
 ## An image of Prospect Heights
 
-'''python
-#Importing libraries
-import numpy as np
-import matplotlib.pyplot as plt
-img = plt.imread('img.png') #Reads the image
-plt.imshow(img) #Loads the image into pyplot
-#Creating a copy of the image
-img2 = img.copy()
-#Graying the TOP area out
-img2[:200,:,0] = .5
-img2[:200,:,1] = .5
-img2[:200,:,2] = .5
-#Graying the BOTTOM out
-img2[-200:,:,0] = .5
-img2[-200:,:,1] = .5
-img2[-200:,:,2] = .5
-#Graying the LEFT out
-img2[:,:500,0] = .5
-img2[:,:500,1] = .5
-img2[:,:500,2] = .5
-#Graying the RIGHT out
-img2[:,-500:,0] = .5
-img2[:,-500:,1] = .5
-img2[:,-500:,2] = .5
-#Showing & saving the new image
-plt.imshow(img2)
-plt.show()
-plt.imsave('modified.png', img2)
-'''
 ![alt text][logo]
 
 [logo]: https://static01.nyt.com/newsgraphics/2016/02/16/living-map/969b41227609944c96b9dbc151b92c55dfacee4d/0221-rea-web-LIVINGprospectheights-300.png "Logo Title Text 2"
