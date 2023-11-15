@@ -1,4 +1,4 @@
-'''python
+```python
 #Importing libraries
 import numpy as np
 import matplotlib.pyplot as plt
@@ -26,4 +26,4 @@ img2[:,-500:,2] = .5
 plt.imshow(img2)
 plt.show()
 plt.imsave('modified.png', img2)
-'''
+```
