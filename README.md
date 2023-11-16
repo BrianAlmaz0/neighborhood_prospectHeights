@@ -34,12 +34,19 @@
 # Analying Fuel Data
 ##### We came across the Types of Fuel Oils (No. 4 and No. 6) when examining the data for the NYC Clean Heat Program in HC 3. No. 6 was found to cause more environmental harm because it is a heavy fuel used in power plants and ships. These conclusions from our research are supported by the fact that Brooklyn neighborhoods like Flatbush, Brooklyn Heights, Ocean Parkway, and Borough Park use fuel oil of type No. 6, which contributes to fuel consumption that is equal to or greater than that of other neighborhoods. Because Brooklyn is a relatively new borough, its usage may be lower than that of other boroughs.
 
+
+
 #### This graph shows the average fuel usage across specifc zip codes in brooklyn, the ones I looked into were 11217 and 11238 Prospect Heights
 
 ![alt text](https://github.com/BrianAlmaz0/neighborhood_prospectHeights/assets/148511820/a36feb01-6ce0-4708-bc4f-d6f25f973c5f "Logo Title Text 1")
 
-### We can see from the data below that the Total MMBTU (High) usage is significantly higher in zip code 11238 which can be due to a variety of reason but, its most likely due to the higher population in that area of about 10,000 more residents.
+#### We can see from the data below that the Total MMBTU (High) usage is significantly higher in zip code 11238 which can be due to a variety of reason but, its most likely due to the higher population in that area of about 10,000 more residents.
 
 ![alt text](https://github.com/BrianAlmaz0/neighborhood_prospectHeights/assets/148511820/e76ec411-3a70-40e9-abd4-d4575ea98f43
  "Logo Title Text 1")
+
+ #### We can see from the data that the Total MMBTU (High) usage is significantly higher in zip code 11238 which can be due to a variety of reason but, its most likely due to the higher population in that area of about 10,000 more residents.
+
+
+<iframe src="Prospect_Heat_Map (6).html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
