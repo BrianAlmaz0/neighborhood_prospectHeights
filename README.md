@@ -38,4 +38,8 @@
 
 ![alt text](https://github.com/BrianAlmaz0/neighborhood_prospectHeights/assets/148511820/a36feb01-6ce0-4708-bc4f-d6f25f973c5f "Logo Title Text 1")
 
+### We can see from the data below that the Total MMBTU (High) usage is significantly higher in zip code 11238 which can be due to a variety of reason but, its most likely due to the higher population in that area of about 10,000 more residents.
+
+![alt text](https://github.com/BrianAlmaz0/neighborhood_prospectHeights/assets/148511820/e76ec411-3a70-40e9-abd4-d4575ea98f43
+ "Logo Title Text 1")
 
